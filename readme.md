@@ -1,9 +1,9 @@
 ### CSDN-export-script
 CSDN博客导出脚本
 ## ⚠注意
-只支持导出老版编辑器（https://editor.csdn.net/md/） 写的文章。
+只支持导出老版编辑器（ https://editor.csdn.net/md/ ）写的文章。
 
-新版编辑器 （https://mp.csdn.net/mp_blog/creation/editor） 并不是标准的markdown导出的会是空文件。[issues](https://github.com/ame-yu/CSDN-export-script/issues/2)
+新版编辑器 （ https://mp.csdn.net/mp_blog/creation/editor ）并不是标准的markdown导出的会是空文件。[issues](https://github.com/ame-yu/CSDN-export-script/issues/2)
 
 ### QuickStart
 ![](docs/img/demo.gif)
